@@ -34,12 +34,7 @@ jupyter notebook FaceRecognition.ipynb
 ### 2️⃣ Run in Python Script (if available)  
 ```bash
 python face_recognition.py
-```  
-
-## 📊 Model Performance  
-- Training Accuracy: **XX%**  
-- Validation Accuracy: **XX%**  
-- Loss: **XX**  
+``` 
 
 ## 🔥 Results  
 - Displays detected and recognized faces.  
